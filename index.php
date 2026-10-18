@@ -190,7 +190,7 @@ if ($search_phone) {
         <h1>🧋 Tiệm Trà Sữa Nhỏ Xinh</h1>
         <p>Thơm ngon đậm vị - Giao hàng tận nơi</p>
     </header>
-    <nav>
+    <nav class="hover">
         <a href="index.php">Trang Chủ & Menu</a>
         <a href="#cart">Giỏ Hàng (<span id="cart-count">0</span>)</a>
         <a href="#lookup">Tra Cứu Đơn Hàng</a>
